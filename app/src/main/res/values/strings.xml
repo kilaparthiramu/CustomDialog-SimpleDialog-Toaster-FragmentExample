@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDialouge</string>
+    <string name="app">Are u sure u want to submit your data!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Toast">Javatpoint Custom Toast</string>
+</resources>
+
